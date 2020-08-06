@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6911eda-a8bc-4221-893c-5900c9afe233" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/src/vendor/composer" />
+      <path value="$PROJECT_DIR$/src/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/src/vendor/php-http/client-common" />
+      <path value="$PROJECT_DIR$/src/vendor/coffeecode/optimizer" />
+      <path value="$PROJECT_DIR$/src/vendor/php-http/discovery" />
+      <path value="$PROJECT_DIR$/src/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/src/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/src/vendor/php-http/message" />
+      <path value="$PROJECT_DIR$/src/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/src/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/src/vendor/jean85/pretty-package-versions" />
+      <path value="$PROJECT_DIR$/src/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/src/vendor/clue/stream-filter" />
+      <path value="$PROJECT_DIR$/src/vendor/sentry/sentry" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/src/vendor/http-interop/http-factory-guzzle" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/src/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/psr7" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1agaddUNuHBmoBomntRHVoITRP4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/model" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\mvc-structure\app\model" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6911eda-a8bc-4221-893c-5900c9afe233" name="Default Changelist" comment="" />
+      <created>1587159778733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587159778733</updated>
+      <workItem from="1587159781327" duration="1343000" />
+      <workItem from="1587173448143" duration="299000" />
+      <workItem from="1587217688329" duration="660000" />
+      <workItem from="1587564672717" duration="5587000" />
+      <workItem from="1587589834542" duration="348000" />
+      <workItem from="1587609317602" duration="595000" />
+      <workItem from="1587651439659" duration="917000" />
+      <workItem from="1587691370431" duration="606000" />
+      <workItem from="1588724117549" duration="23000" />
+      <workItem from="1588725028835" duration="1510000" />
+      <workItem from="1588781038649" duration="694000" />
+      <workItem from="1589766416500" duration="2849000" />
+      <workItem from="1589817644128" duration="452000" />
+      <workItem from="1589818303205" duration="74000" />
+      <workItem from="1589886225546" duration="972000" />
+      <workItem from="1590341133990" duration="231000" />
+      <workItem from="1590341527063" duration="2293000" />
+      <workItem from="1590353628571" duration="2333000" />
+      <workItem from="1590361429299" duration="754000" />
+      <workItem from="1590401996638" duration="430000" />
+      <workItem from="1590420317011" duration="56000" />
+      <workItem from="1590930261336" duration="216000" />
+      <workItem from="1590932314311" duration="21000" />
+      <workItem from="1591382043508" duration="1069000" />
+      <workItem from="1591384965008" duration="9000" />
+      <workItem from="1591385231684" duration="885000" />
+      <workItem from="1591389112334" duration="437000" />
+      <workItem from="1592520604741" duration="32000" />
+      <workItem from="1594512439539" duration="472000" />
+      <workItem from="1594525697916" duration="195000" />
+      <workItem from="1594683953742" duration="64000" />
+      <workItem from="1595037107242" duration="1378000" />
+      <workItem from="1595038728281" duration="630000" />
+      <workItem from="1595108216123" duration="592000" />
+      <workItem from="1595112273149" duration="63000" />
+      <workItem from="1595724954142" duration="125000" />
+      <workItem from="1595725243211" duration="9000" />
+      <workItem from="1595725437969" duration="174000" />
+      <workItem from="1595727326232" duration="11000" />
+      <workItem from="1596326766758" duration="80000" />
+      <workItem from="1596468611278" duration="3118000" />
+      <workItem from="1596503713334" duration="175000" />
+      <workItem from="1596504125680" duration="657000" />
+      <workItem from="1596673260733" duration="1882000" />
+      <workItem from="1596675381857" duration="1774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1594512723741">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1360.728@0.0.1360.728" timestamp="1594512723741" />
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1594512933748">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1594512933748" />
+    <state x="459" y="87" key="NewPhpClassDialog" timestamp="1594512688910">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="459" y="87" key="NewPhpClassDialog/0.0.1360.728@0.0.1360.728" timestamp="1594512688910" />
+  </component>
+</project>
