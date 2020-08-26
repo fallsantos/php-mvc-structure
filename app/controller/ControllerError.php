@@ -15,14 +15,15 @@ class ControllerError extends ClassRender implements InterfaceView
 {
     public function __construct()
     {
-        $this->setTitle("Erro 404!");
-        $this->setDescription("Erro 404 - Página não encontrada.");
-        $this->setKeyworks("Error 404");
-        $this->setDirectory("erro404");
-
         $data = [
             "error" => 404
         ];
+        
+        $this->setTitle("Erro {$data['error']}!");
+        $this->setDescription("Erro {$data['error']}.");
+        $this->setKeyworks("Error {$data['error']}");
+        $this->setDirectory("error");
+        
         
         $this->renderLayout('error', $data);
     }
