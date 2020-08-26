@@ -65,6 +65,9 @@ class ClassRender
             case 'login':
                 include_once (SITE['root'] . "/app/view/login.php");
                 break;
+            case 'error':
+                include_once (SITE['root'] . "/app/view/error.php");
+                break;
             default:
                 include_once (SITE['root'] . "/app/view/default.php");
         }
