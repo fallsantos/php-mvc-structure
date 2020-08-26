@@ -39,13 +39,13 @@ class ClassRoutes
             }
             else// Se existe o que o usuário digitou, porém o arquivo não exista(o desenvolvedor apagou sem querer ou esqueceu de colocar).
             {
-                //return "site\ControllerHome";
-                die('deu merda');
+                return "site\ControllerHome";
+                //die('deu merda');
             }
         }
         else// Se não exirtir / digitou besteira
         {
-            return "Controller404"; // Retorna o Controller404 Erro 404 - Page not found!.
+            return "ControllerError"; // Retorna o ControllerError Erro 404 - Page not found!.
         }
     }
 }

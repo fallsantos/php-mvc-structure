@@ -6,6 +6,6 @@
  */
 ?>
 
-<div class="erro404">
-    <h1>Erro 404!</h1>
+<div class="error">
+    <h1>Erro <?= $p['error'] ?>!</h1>
 </div>

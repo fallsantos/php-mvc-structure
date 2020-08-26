@@ -11,7 +11,7 @@ namespace App\controller;
 use Src\classes\ClassRender;
 use Src\interfaces\InterfaceView;
 
-class Controller404 extends ClassRender implements InterfaceView
+class ControllerError extends ClassRender implements InterfaceView
 {
     public function __construct()
     {
@@ -20,6 +20,10 @@ class Controller404 extends ClassRender implements InterfaceView
         $this->setKeyworks("Error 404");
         $this->setDirectory("erro404");
 
-        $this->renderLayout();
+        $data = [
+            "error" => 404
+        ];
+        
+        $this->renderLayout('error', $data);
     }
 }
